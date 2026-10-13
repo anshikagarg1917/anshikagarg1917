@@ -112,10 +112,10 @@ A short description of the problem it solves.
 <div align="center">
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=818CF8&text_color=374151" height="165" alt="GitHub statistics"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg1917&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=818CF8&text_color=374151" height="165" alt="GitHub statistics"/>
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=374151" height="165" alt="Most used programming languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikagarg1917&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=374151" height="165" alt="Most used programming languages"/>
   </a>
 
 </div>
@@ -129,7 +129,7 @@ A short description of the problem it solves.
   <a href="https://www.linkedin.com/in/anshika-garg-55285a382">
     <img src="https://img.shields.io/badge/LinkedIn-Anshika%20Garg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/anshikagarg1917">
     <img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:anshikagarg1917@gmail.com">
