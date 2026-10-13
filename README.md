@@ -32,15 +32,15 @@
 
 Hi, I'm **Anshika Garg**, a Computer Science student passionate about software development and technology.
 
-I'm building my foundation in programming, databases, and backend development while exploring how real-world applications are designed and developed.
 
-- 💻 Interested in software development and problem-solving.
-- 🌱 Currently learning Python, SQL, and backend development.
-- 🏆 Participated in a team hackathon project, **Sahyog Seva**.
-- 🔍 Exploring APIs, databases, and web technologies.
-- 🎯 Working towards my goal of becoming a Software Engineer.
+- 💻 Working with HTML, CSS, JavaScript, Python, and Flask.
+- 🌐 Exploring Full Stack Web Development and learning how web applications work.
+- 🚀 Building small projects to apply my knowledge and gain practical experience.
+- 🧠 Currently starting my Data Structures & Algorithms journey with C++.
+- 🏆 Participated in Sahyog Seva, a team project for Smart India Hackathon 2026.
 
-I believe in learning by building, staying curious, and improving through consistent practice.
+I'm passionate about learning new technologies, solving problems, and turning ideas into practical projects while continuously improving my development skills.
+
 
 ## 🛠️ Technologies & Tools
 
@@ -52,7 +52,9 @@ I believe in learning by building, staying curious, and improving through consis
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
@@ -97,30 +99,16 @@ A short description of the problem it solves.
 
 ## 📚 Currently Learning
 
-| Area | Focus |
-|---|---|
-| Backend Development | Server-side logic and Flask |
-| Databases | SQL, queries, and database design |
-| API Development | REST APIs and HTTP fundamentals |
-| Data Structures & Algorithms | Programming logic and problem-solving |
-| Web Development | HTML, CSS, and application fundamentals |
 
-## 📊 GitHub Statistics
+- 🌐 **Web Development:** Developing small projects to strengthen my frontend and backend development skills.
+- ⚙️ **Backend Development:** Practicing Python and Flask to understand server-side application development.
+- 🧠 **Data Structures & Algorithms:** Beginning my DSA journey with C++ to improve logical thinking and problem-solving.
+- 🚀 **Project-Based Learning:** Applying my knowledge of HTML, CSS, JavaScript, and Python by building practical projects.
 
-<!-- Replace YOUR_GITHUB_USERNAME before enabling these widgets. -->
 
-<div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=anshikagarg1917&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=818CF8&text_color=374151" height="165" alt="GitHub statistics"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikagarg1917&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=374151" height="165" alt="Most used programming languages"/>
-  </a>
 
-</div>
 
-*Statistics are provided by a third-party service and may be unavailable or temporarily inaccurate. Language statistics reflect repository code, not overall programming ability.*
 
 ## 🤝 Connect With Me
 
